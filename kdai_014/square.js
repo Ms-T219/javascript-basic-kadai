@@ -1,5 +1,5 @@
 const caluculateTotal =(squared)=>{
-  console.log(squared*2)
+  console.log(squared* squared)
 }
 
-caluculateTotal(50);
+caluculateTotal(10);
